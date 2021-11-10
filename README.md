@@ -34,3 +34,6 @@ It is a sleep function which is used to add delay in the execution of the progra
 `notification.notify()`
 
 It is used to display the notification
+
+
+![THIS IS THE OUTPUT](https://paste.pics/ef77ec71ed39704f35d3258e52d31f76)
